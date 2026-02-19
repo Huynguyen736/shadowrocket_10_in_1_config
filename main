@@ -1,8 +1,7 @@
 #!name = All In One Pro Max Ultimate
-#!desc = YouTube + Locket + SoundCloud + Spotify + Nhiều App khác
-#!author = Gấu Lỏz CUTO_Tổng hợp các URL trên mạng
+#!desc = YouTube, Locket, SoundCloud, Spotify, AlightMotion, PicsArt, Wink, Truecaller, BeautyPlus, Kinemaster, CamScanner
 
-#Shadowrocket Unlock nhiều app vip
+#Shadowrocket Unlock pro 10 in 1
 
 [Rule]
 AND,((DOMAIN-SUFFIX,googlevideo.com),(PROTOCOL,UDP)),REJECT
